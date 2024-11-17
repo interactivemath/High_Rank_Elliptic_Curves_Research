@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Page-1" id="WFjrUkQIDvcbVe5PcbC5">
-    <mxGraphModel>
+    <mxGraphModel dx="836" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OGnh_FTprzQ9vVMmhLbL-2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cloud_security_center;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="43.199999999999996" height="48.9" as="geometry" />
+        </mxCell>
+        <mxCell id="OGnh_FTprzQ9vVMmhLbL-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/payment-method-1/64/_bitcoin-128.png" vertex="1" parent="1">
+          <mxGeometry x="300" y="525" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OGnh_FTprzQ9vVMmhLbL-5" value="&lt;b&gt;Elliptic Curves&lt;/b&gt;&lt;div&gt;\(y^2+a_1xy+a_3y=x^3+a_2x^2+a_4x+a_6\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="270" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
