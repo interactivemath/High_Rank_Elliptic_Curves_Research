@@ -8,7 +8,7 @@
           <mxGeometry x="730" y="120" width="43.199999999999996" height="48.9" as="geometry" />
         </mxCell>
         <mxCell id="OGnh_FTprzQ9vVMmhLbL-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/payment-method-1/64/_bitcoin-128.png" vertex="1" parent="1">
-          <mxGeometry x="250" y="110" width="49" height="49" as="geometry" />
+          <mxGeometry x="140" y="150" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="OGnh_FTprzQ9vVMmhLbL-5" value="&lt;b&gt;Elliptic Curves&lt;/b&gt;&lt;div&gt;\(y^2+a_1xy+a_3y=x^3+a_2x^2+a_4x+a_6\)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="310" width="260" height="50" as="geometry" />
@@ -41,16 +41,19 @@
             <mxPoint x="680" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OGnh_FTprzQ9vVMmhLbL-54" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OGnh_FTprzQ9vVMmhLbL-15">
+        <mxCell id="OGnh_FTprzQ9vVMmhLbL-54" value="Birch and Swinnerton-Dyer Conjecture" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OGnh_FTprzQ9vVMmhLbL-15">
           <mxGeometry x="-0.099" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OGnh_FTprzQ9vVMmhLbL-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OGnh_FTprzQ9vVMmhLbL-5">
+        <mxCell id="OGnh_FTprzQ9vVMmhLbL-49" value="Elliptic Curve Crytography" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OGnh_FTprzQ9vVMmhLbL-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="370" as="sourcePoint" />
             <mxPoint x="200" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OGnh_FTprzQ9vVMmhLbL-55" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/currency-and-cryptocurrency-signs/64/cryptocurrency_blockchain_Ethereum_ETH-128.png" vertex="1" parent="1">
+          <mxGeometry x="189" y="127.9" width="71.1" height="71.1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
