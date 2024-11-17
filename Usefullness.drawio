@@ -55,6 +55,9 @@
         <mxCell id="OGnh_FTprzQ9vVMmhLbL-57" value="\(r = r_{an}\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="661.6" y="480" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OGnh_FTprzQ9vVMmhLbL-58" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dsi_data_security_insurance;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="43.5" height="51.3" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
