@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4806" dy="2752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="4587" dy="1533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -20,48 +20,8 @@
         <mxCell id="h5XnRWCeIPyNNjGSuyZE-0" value="Plug the $x$ and \(y\) coordinates of each rational point into the equation: \(axy + by - cx^2-dx-e+fxy^2+gx^2y+hy^2-ix^3\)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1460" y="470" width="350" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="fnBaqX6JMJCITgcsoJBf-10" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="405" y="629" as="sourcePoint" />
-            <mxPoint x="362" y="679" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="404.5" y="641" />
-              <mxPoint x="362" y="667" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fnBaqX6JMJCITgcsoJBf-11" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="629" as="sourcePoint" />
-            <mxPoint x="492" y="679" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="449.5" y="641" />
-              <mxPoint x="492" y="667" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fnBaqX6JMJCITgcsoJBf-12" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="362" y="737" as="sourcePoint" />
-            <mxPoint x="405" y="787" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="362" y="749" />
-              <mxPoint x="404.5" y="775" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fnBaqX6JMJCITgcsoJBf-13" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="492" y="737" as="sourcePoint" />
-            <mxPoint x="450" y="787" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="492" y="749" />
-              <mxPoint x="449.5" y="775" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fnBaqX6JMJCITgcsoJBf-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="400" width="130" height="60" as="geometry" />
+          <mxGeometry x="-1460" y="695" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -92,87 +52,91 @@
         <mxCell id="5lydCQstBOsYH9ejDWw0-15" value="Input the cubic in the second program." style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-410" y="475" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5lydCQstBOsYH9ejDWw0-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-18" target="5lydCQstBOsYH9ejDWw0-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5lydCQstBOsYH9ejDWw0-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-18" value="Homogenize the cubic" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-180" y="475" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-20" value="Using \(\text{&lt;b&gt;EllipticCurve}(F,P)\), &lt;/b&gt;program, we find the Weierestrass form from the cubic." style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry y="473.75" width="240" height="62.5" as="geometry" />
+          <mxGeometry x="-230" y="620" width="240" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-24" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="486" as="sourcePoint" />
-            <mxPoint x="290" y="436" as="targetPoint" />
+            <mxPoint x="-1520" y="781" as="sourcePoint" />
+            <mxPoint x="-1470" y="731" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5lydCQstBOsYH9ejDWw0-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-20" edge="1">
+        <mxCell id="5lydCQstBOsYH9ejDWw0-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-20" edge="1" target="5lydCQstBOsYH9ejDWw0-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="496" as="sourcePoint" />
-            <mxPoint x="290" y="550" as="targetPoint" />
+            <mxPoint x="-610" y="756.875" as="sourcePoint" />
+            <mxPoint x="-330" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="525" width="130" height="60" as="geometry" />
+          <mxGeometry x="-460" y="622.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-27" target="5lydCQstBOsYH9ejDWw0-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-27" value="Find the analytic rank upper bound of the given curve.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="305" y="415" width="120" height="30" as="geometry" />
+          <mxGeometry x="-1460" y="682.5" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5lydCQstBOsYH9ejDWw0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-29" target="5lydCQstBOsYH9ejDWw0-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="omuSJQhHvYPeHfVgWwEz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-29">
+        <mxCell id="5lydCQstBOsYH9ejDWw0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-29" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="430" as="targetPoint" />
+            <mxPoint x="-817.5" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omuSJQhHvYPeHfVgWwEz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-29" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1050" y="725" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-29" value="Assume the Generalized Riemann Hypothesis" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="505" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1255" y="695" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-31" value="Given we have an Elliptic curve over &lt;b&gt;Q&lt;/b&gt;, then for each prime, choose the factorization of: \(L_p((s,E) = (1 - \alpha(p) p^{-s})(1 - \beta(p)p^{-s})\). We now compute the arithmetic term: \[g_{an}(\Delta,E) = -\dfrac{1}{\Delta \pi} \sum_{p \leq \exp(2\Delta \pi)} \log p \sum_{k=1} \dfrac{k}{p^{k/2}}(\alpha (p)^k + \beta (p)^k \left(1 - \dfrac{\log p^{k/2}}{\Delta \pi}\right)\]" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="580" y="170" width="725" height="120" as="geometry" />
+          <mxGeometry x="250" y="50" width="725" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="omuSJQhHvYPeHfVgWwEz-3" value="The Archimedean term is simplified to the following equation:&amp;nbsp;&lt;div&gt;\[u_{an}(\Delta) = \dfrac{\eta}{\pi^2 \Delta}&amp;nbsp; + \dfrac{1}{2\pi^3 \Delta^2} \left(\zeta(2) - \text{dilog}(e^{-2\pi\Delta})\right) \]&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="370" width="360" height="120" as="geometry" />
+        <mxCell id="omuSJQhHvYPeHfVgWwEz-3" value="The Archimedean term is simplified to the following equation:&amp;nbsp;&lt;div&gt;\[u_{an}(\Delta) = \dfrac{\eta}{\pi^2 \Delta}&amp;nbsp; + \dfrac{1}{2\pi^3 \Delta^2} \left(\zeta(2) - \text{dilog}(e^{-2\pi\Delta})\right) \]&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1050" y="665" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="omuSJQhHvYPeHfVgWwEz-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="omuSJQhHvYPeHfVgWwEz-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="460.02" as="sourcePoint" />
-            <mxPoint x="940" y="580" as="targetPoint" />
+            <mxPoint x="230" y="340.02" as="sourcePoint" />
+            <mxPoint x="610" y="460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="520" />
+              <mxPoint x="450" y="400" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="omuSJQhHvYPeHfVgWwEz-10" value="Calculate the conductor term:&amp;nbsp;&lt;div&gt;\[n_{an}(\Delta, E) = \dfrac{1}{\Delta \pi} \log \dfrac{\sqrt{N(E)}}{2\pi}\]&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="585" width="580" height="155" as="geometry" />
+        <mxCell id="omuSJQhHvYPeHfVgWwEz-10" value="Calculate the conductor term:&amp;nbsp;&lt;div&gt;\[n_{an}(\Delta, E) = \dfrac{1}{\Delta \pi} \log \dfrac{\sqrt{N(E)}}{2\pi}\]&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="465" width="350" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="omuSJQhHvYPeHfVgWwEz-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="omuSJQhHvYPeHfVgWwEz-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" source="omuSJQhHvYPeHfVgWwEz-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1300" y="675" as="sourcePoint" />
-            <mxPoint x="1480" y="495" as="targetPoint" />
+            <mxPoint x="970" y="555" as="sourcePoint" />
+            <mxPoint x="1150" y="375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="omuSJQhHvYPeHfVgWwEz-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="omuSJQhHvYPeHfVgWwEz-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1305" y="230" as="sourcePoint" />
-            <mxPoint x="1470" y="370" as="targetPoint" />
+            <mxPoint x="975" y="110" as="sourcePoint" />
+            <mxPoint x="1140" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="omuSJQhHvYPeHfVgWwEz-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="omuSJQhHvYPeHfVgWwEz-13" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1070" y="430" as="sourcePoint" />
-            <mxPoint x="1470" y="430" as="targetPoint" />
+            <mxPoint x="740" y="310" as="sourcePoint" />
+            <mxPoint x="1140" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="omuSJQhHvYPeHfVgWwEz-14" value="As \(s = 1/2 + i \gamma\) ranges over the zeros of \(L(s,E)\) , we have:&amp;nbsp;&lt;div&gt;\[\sum_{\gamma} f_{\Delta} = g_{an}(\Delta, E) + u_{an}(\Delta) + n_{an}(\Delta, E)\]&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1500" y="372" width="320" height="116" as="geometry" />
+        <mxCell id="omuSJQhHvYPeHfVgWwEz-14" value="As \(s = 1/2 + i \gamma\) ranges over the zeros of \(L(s,E)\) , we have:&amp;nbsp;&lt;div&gt;\[\sum_{\gamma} f_{\Delta} = g_{an}(\Delta, E) + u_{an}(\Delta) + n_{an}(\Delta, E)\]&lt;/div&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1170" y="252" width="320" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="omuSJQhHvYPeHfVgWwEz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="omuSJQhHvYPeHfVgWwEz-14" target="omuSJQhHvYPeHfVgWwEz-14">
+        <mxCell id="omuSJQhHvYPeHfVgWwEz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="omuSJQhHvYPeHfVgWwEz-14" target="omuSJQhHvYPeHfVgWwEz-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
