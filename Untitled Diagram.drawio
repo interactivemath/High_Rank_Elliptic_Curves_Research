@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" modified="2024-11-18T15:31:23.653Z" version="16.6.3" etag="K9-efDGLWZq1kYFSOzVV" type="github">
+<mxfile host="app.diagrams.net" agent="5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" modified="2024-11-18T15:56:06.448Z" version="16.6.3" etag="mveu8XzxCJCbj8vLQQh3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2481" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2297" dy="339" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -18,10 +18,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h5XnRWCeIPyNNjGSuyZE-0" value="Plug the $x$ and \(y\) coordinates of each rational point into the equation: \(axy + by - cx^2-dx-e+fxy^2+gx^2y+hy^2-ix^3\)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1390" y="470" width="350" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="fnBaqX6JMJCITgcsoJBf-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="372" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1460" y="470" width="350" height="70" as="geometry" />
         </mxCell>
         <mxCell id="fnBaqX6JMJCITgcsoJBf-10" value="" style="html=1;rounded=1;curved=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startSize=6;endSize=6;noEdgeStyle=1;orthogonal=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -64,13 +61,75 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fnBaqX6JMJCITgcsoJBf-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="328" y="690" width="70" height="40" as="geometry" />
+          <mxGeometry x="300" y="400" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-810" y="505" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-3" value="List them in an \(a \times a+2\) matrix.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-845" y="475" width="135" height="60" as="geometry" />
+          <mxGeometry x="-1030" y="475" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-760" y="430" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-10" target="5lydCQstBOsYH9ejDWw0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-10" value="Solve the matrix for the coefficients used Gaussian Elimination" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-810" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-12" target="5lydCQstBOsYH9ejDWw0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-12" value="Rewrite each of the solved coefficients from the RREF.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-610" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-15" target="5lydCQstBOsYH9ejDWw0-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-15" value="Input the cubic in the second program." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-410" y="475" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-18" target="5lydCQstBOsYH9ejDWw0-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-18" value="Homogenize the cubic" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-180" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-20" value="Using \(\text{&lt;b&gt;EllipticCurve}(F,P)\), &lt;/b&gt;program, we find the Weierestrass form from the cubic." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="473.75" width="240" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="486" as="sourcePoint" />
+            <mxPoint x="290" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="496" as="sourcePoint" />
+            <mxPoint x="290" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="525" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-27" target="5lydCQstBOsYH9ejDWw0-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-27" value="Find the analytic rank upper bound of the given curve.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="305" y="415" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-29" target="5lydCQstBOsYH9ejDWw0-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-29" value="Assume the Generalized Riemann Hypothesis" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="505" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5lydCQstBOsYH9ejDWw0-31" value="Given we have an Elliptic curve over \(\Q\), then for each prime, choose the factorization of: \(L_p((s,E) = (1 - \alpha(p) p^{-s})(1 - \beta(p)p^{-s}). We now compute the arithmetic term: \(g_{an}(\Delta,E) = -\dfrac{1}{\Delta pi} \sum_{p \leq \exp(2\Delta \pi)} \log p \sum_{k=1}" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="705" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
