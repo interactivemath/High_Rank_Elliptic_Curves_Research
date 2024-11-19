@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3415" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3697" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -36,8 +36,10 @@
         <mxCell id="5lydCQstBOsYH9ejDWw0-27" value="Find the analytic rank upper bound of the given curve.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-954" y="593.25" width="124" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="qMZerMCtofsBWmIVCIiv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-29" target="qMZerMCtofsBWmIVCIiv-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qMZerMCtofsBWmIVCIiv-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1210" y="606.0000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-29" value="Assume the Generalized Riemann Hypothesis" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1160" y="576" width="120" height="60" as="geometry" />
@@ -55,13 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ESHRiz6hZ0nK3vgfiKJN-25" value="Print the Analytic Rank Upper Bound and the Elliptic Curve" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1730" y="576" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ESHRiz6hZ0nK3vgfiKJN-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1304.12" y="412.13" width="20" height="511.75" as="geometry" />
-        </mxCell>
-        <mxCell id="ESHRiz6hZ0nK3vgfiKJN-27" value="&lt;b&gt;\(\text{E.analytic_rank_upper_bound()}\)&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1317.25" y="680" width="60" height="30" as="geometry" />
+          <mxGeometry x="-1691" y="576" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-0" value="Input \(7\) rational points" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1650" y="482.5" width="130" height="45" as="geometry" />
@@ -69,11 +65,11 @@
         <mxCell id="qMZerMCtofsBWmIVCIiv-1" value="Plug the \(x\) and \(y\) coordinates of each rational point into the equation: \(axy + by - cx^2-dx-e+fxy^2+gx^2y+hy^2-ix^3\)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1460" y="475" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qMZerMCtofsBWmIVCIiv-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-4" target="ESHRiz6hZ0nK3vgfiKJN-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qMZerMCtofsBWmIVCIiv-4" value="As \(s = 1/2 + i \gamma\) ranges over the zeros of \(L(s,E)\) , compute:&amp;nbsp;&lt;div&gt;\[\sum_{\gamma} f_{\Delta} = g_{an}(\Delta, E) + u_{an}(\Delta) + n_{an}(\Delta, E) \text{(Bobel)}\]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1550" y="561" width="340" height="90" as="geometry" />
+        <mxCell id="qMZerMCtofsBWmIVCIiv-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1508" y="606" as="sourcePoint" />
+            <mxPoint x="-1568" y="606" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-5" value="List them in an \(7\times 10\) matrix.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1060" y="475" width="120" height="60" as="geometry" />
@@ -106,6 +102,9 @@
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-12" value="Homogenize the cubic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-526" y="576" width="120" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="qMZerMCtofsBWmIVCIiv-28" value="Compute&amp;nbsp;&lt;b&gt;\(\text{E.analytic_rank_upper_bound()}\)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-1503" y="579" width="290" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
