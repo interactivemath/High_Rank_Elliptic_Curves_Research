@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2221" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2876" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -26,12 +26,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-767" y="505" as="sourcePoint" />
             <mxPoint x="-717" y="505.0588235294117" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5lydCQstBOsYH9ejDWw0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-590" y="505" as="sourcePoint" />
-            <mxPoint x="-540" y="505.0588235294117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -111,14 +105,30 @@
         <mxCell id="qMZerMCtofsBWmIVCIiv-9" value="Rewrite each of the solved coefficients from the RREF.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-715" y="474" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qMZerMCtofsBWmIVCIiv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-770" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-10" value="Input the cubic in the second program." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-710" y="585" width="120" height="60" as="geometry" />
+          <mxGeometry x="-712" y="588" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-11" value="Using \(\text{EllipticCurve}(F,P)\)&lt;b&gt;&amp;nbsp;&lt;/b&gt;program, we find the Weierestrass form from the cubic." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-162" y="467" width="180" height="76" as="geometry" />
+          <mxGeometry x="-1120" y="580" width="180" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="qMZerMCtofsBWmIVCIiv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-940" y="615.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-12" value="Homogenize the cubic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-359" y="475" width="120" height="57" as="geometry" />
+          <mxGeometry x="-893" y="587" width="120" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="qMZerMCtofsBWmIVCIiv-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-657" y="534" as="sourcePoint" />
+            <mxPoint x="-657" y="584" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
