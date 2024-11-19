@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3925" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="4069" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -56,7 +56,7 @@
             <mxPoint x="-937" y="505" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ESHRiz6hZ0nK3vgfiKJN-25" value="Print the Analytic Rank Upper Bound and the Elliptic Curve" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#80EF80;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ESHRiz6hZ0nK3vgfiKJN-25" value="Print the Analytic Rank Upper Bound and the Elliptic Curve" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#75BAFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1691" y="576" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-0" value="Input \(7\) rational points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#75BAFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -103,7 +103,7 @@
         <mxCell id="qMZerMCtofsBWmIVCIiv-12" value="Homogenize the cubic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-526" y="576" width="120" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="qMZerMCtofsBWmIVCIiv-28" value="Compute&amp;nbsp;&lt;b&gt;\(\text{E.analytic_rank_upper_bound()}\)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="qMZerMCtofsBWmIVCIiv-28" value="Compute&amp;nbsp;&lt;b&gt;\(\text{E.analytic_rank_upper_bound()}\)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#80EF80;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-1503" y="579" width="290" height="53" as="geometry" />
         </mxCell>
       </root>
