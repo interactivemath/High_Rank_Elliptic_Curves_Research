@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3438" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="3218" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,7 +25,7 @@
             <mxPoint x="-717" y="684.0588235294117" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wb31Fh3x2rZO37Mf8u0q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-29" target="qMZerMCtofsBWmIVCIiv-28">
+        <mxCell id="Wb31Fh3x2rZO37Mf8u0q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5lydCQstBOsYH9ejDWw0-29" target="qMZerMCtofsBWmIVCIiv-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5lydCQstBOsYH9ejDWw0-29" value="Assume the Generalized Riemann Hypothesis" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -70,15 +70,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-9" value="Rewrite each of the solved coefficients from the RREF.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-715" y="653" width="120" height="60" as="geometry" />
+          <mxGeometry x="-715" y="655.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-10" target="qMZerMCtofsBWmIVCIiv-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-10" value="Input the cubic in the second program." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#75BAFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-526" y="653" width="120" height="60" as="geometry" />
+          <mxGeometry x="-530" y="653" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wb31Fh3x2rZO37Mf8u0q-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-11" target="5lydCQstBOsYH9ejDWw0-29">
+        <mxCell id="Wb31Fh3x2rZO37Mf8u0q-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-11" target="5lydCQstBOsYH9ejDWw0-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-11" value="Using \( E = \text{EllipticCurve}(F,P)\)&lt;b&gt;&amp;nbsp;&lt;/b&gt;program, find the Weierstrass form from the cubic." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-12" value="Homogenize the cubic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-526" y="755" width="120" height="57" as="geometry" />
+          <mxGeometry x="-530" y="755.5" width="120" height="57" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-28" value="Compute&amp;nbsp;&lt;b&gt;\(\text{E.analytic_rank_upper_bound()}\)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#80EF80;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-1343" y="758" width="290" height="53" as="geometry" />
