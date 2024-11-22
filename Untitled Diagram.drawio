@@ -40,8 +40,8 @@
         <mxCell id="u0z1N9V6UjJdsUWs1kjW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u0z1N9V6UjJdsUWs1kjW-8" target="qMZerMCtofsBWmIVCIiv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Input \(7\) rational points&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#75BAFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1660" y="37" width="210" height="48" as="geometry" />
+        <mxCell id="u0z1N9V6UjJdsUWs1kjW-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Input up to \(7\) rational points&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#75BAFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1674" y="37" width="240" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
