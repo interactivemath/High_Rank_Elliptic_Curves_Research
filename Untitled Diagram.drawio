@@ -1,65 +1,47 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4098" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="3472" dy="1056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="5lydCQstBOsYH9ejDWw0-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1260" y="373" as="sourcePoint" />
-            <mxPoint x="-1180" y="373.0588235294117" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="omuSJQhHvYPeHfVgWwEz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-660" y="453" as="sourcePoint" />
             <mxPoint x="-660" y="453" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-1" target="qMZerMCtofsBWmIVCIiv-5">
+        <mxCell id="u0z1N9V6UjJdsUWs1kjW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-1" target="qMZerMCtofsBWmIVCIiv-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Plug the \(x\) and \(y\) coordinates of each rational point into the equation: \(axy + by - cx^2-dx-e+fxy^2+gx^2y+hy^2-ix^3\)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1587" y="323" width="477" height="97" as="geometry" />
+          <mxGeometry x="-1777" y="130" width="443.5" height="97" as="geometry" />
         </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-5" target="qMZerMCtofsBWmIVCIiv-8">
+        <mxCell id="u0z1N9V6UjJdsUWs1kjW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-5" target="qMZerMCtofsBWmIVCIiv-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;List them in an \(7\times 10\) matrix.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1035" y="331.13" width="150" height="80.75" as="geometry" />
+          <mxGeometry x="-1631" y="270" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-8" target="qMZerMCtofsBWmIVCIiv-9">
+        <mxCell id="u0z1N9V6UjJdsUWs1kjW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-8" target="qMZerMCtofsBWmIVCIiv-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Solve the matrix for the coefficients using Gaussian Elimination&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#80EF80;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1046.5" y="453.38" width="173" height="88" as="geometry" />
+          <mxGeometry x="-1647" y="367" width="181.5" height="88" as="geometry" />
         </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-9" target="qMZerMCtofsBWmIVCIiv-12">
+        <mxCell id="u0z1N9V6UjJdsUWs1kjW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-9" target="qMZerMCtofsBWmIVCIiv-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Rewrite each of the solved coefficients from the Reduced Row Echelon Form (RREF).&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1470" y="458.5" width="268" height="76.5" as="geometry" />
-        </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-12" target="u0z1N9V6UjJdsUWs1kjW-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-1689" y="490" width="268" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Homogenize the cubic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1765" y="459.13" width="160" height="74.87" as="geometry" />
+          <mxGeometry x="-1635" y="600" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u0z1N9V6UjJdsUWs1kjW-8" target="qMZerMCtofsBWmIVCIiv-1">
+        <mxCell id="u0z1N9V6UjJdsUWs1kjW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u0z1N9V6UjJdsUWs1kjW-8" target="qMZerMCtofsBWmIVCIiv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Input \(7\) rational points&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#75BAFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1850" y="332" width="210" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u0z1N9V6UjJdsUWs1kjW-12" target="u0z1N9V6UjJdsUWs1kjW-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-12" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Start&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#808080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-2050" y="346" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;End&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fillColor=#808080;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1970" y="470.75" width="120" height="50" as="geometry" />
+        <mxCell id="u0z1N9V6UjJdsUWs1kjW-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Input \(7\) rational points&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#75BAFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1660" y="37" width="210" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
