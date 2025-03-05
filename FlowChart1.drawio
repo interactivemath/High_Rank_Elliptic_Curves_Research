@@ -1,68 +1,32 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2994" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="5296" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-1" target="qMZerMCtofsBWmIVCIiv-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qMZerMCtofsBWmIVCIiv-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Plug the \(x\) and \(y\) coordinates of each rational point into each term of the full&lt;/font&gt;&lt;font style=&quot;font-size: 13.3333px;&quot;&gt;&lt;sup&gt;*&lt;/sup&gt;&lt;/font&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;cubic equation with \(x\) and \(y\) variables excluding the \(y^3\) term.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-2310" y="500" width="350" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qMZerMCtofsBWmIVCIiv-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Plug the \(x\) and \(y\) coordinates of each rational point into each term of the equation: \(axy + by - cx^2-dx-e+fxy^2+gx^2y+hy^2-ix^3 = 0\)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1750" y="358" width="477.5" height="97" as="geometry" />
+        <mxCell id="qMZerMCtofsBWmIVCIiv-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;List the terms in a matrix.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1940" y="500" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-5" target="qMZerMCtofsBWmIVCIiv-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qMZerMCtofsBWmIVCIiv-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;List the terms in an \(7\times 10\) matrix.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1585.25" y="492" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-8" target="qMZerMCtofsBWmIVCIiv-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qMZerMCtofsBWmIVCIiv-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Solve the matrix for the coefficients using Gaussian Elimination&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#80EF80;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1841.75" y="553" width="181.5" height="77" as="geometry" />
-        </mxCell>
-        <mxCell id="5-NSVU1kmQ97iRPmBG9O-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qMZerMCtofsBWmIVCIiv-9" target="qMZerMCtofsBWmIVCIiv-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qMZerMCtofsBWmIVCIiv-8" value="&lt;font style=&quot;font-size: 16px; color: rgb(255, 255, 255);&quot;&gt;Solve the matrix for the coefficients using Gaussian Elimination&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#006600;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-1819" y="500" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Rewrite each of the solved coefficients from the Reduced Row Echelon Form (RREF) to get a cubic.&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1890" y="658" width="280" height="70" as="geometry" />
+          <mxGeometry x="-1642" y="495" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qMZerMCtofsBWmIVCIiv-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Homogenize the cubic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1830" y="759" width="160" height="60" as="geometry" />
+          <mxGeometry x="-1382" y="490" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u0z1N9V6UjJdsUWs1kjW-8" target="qMZerMCtofsBWmIVCIiv-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wUOQ8uSeFrA4uP8lP1Tl-9" value="7 Rational Points" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u0z1N9V6UjJdsUWs1kjW-11" vertex="1" connectable="0">
-          <mxGeometry x="0.3115" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wUOQ8uSeFrA4uP8lP1Tl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u0z1N9V6UjJdsUWs1kjW-8" target="wUOQ8uSeFrA4uP8lP1Tl-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1866" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wUOQ8uSeFrA4uP8lP1Tl-10" value="5 Rational Points" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wUOQ8uSeFrA4uP8lP1Tl-8" vertex="1" connectable="0">
-          <mxGeometry x="0.2857" relative="1" as="geometry">
-            <mxPoint x="6" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u0z1N9V6UjJdsUWs1kjW-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Input 5-7 rational points&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#75BAFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-1870" y="247" width="240" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wUOQ8uSeFrA4uP8lP1Tl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wUOQ8uSeFrA4uP8lP1Tl-7" target="wUOQ8uSeFrA4uP8lP1Tl-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="u0z1N9V6UjJdsUWs1kjW-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Input 5-7 rational points&lt;/font&gt;&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=light-dark(#173660,#225E99);size=-10;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="-2410" y="500" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wUOQ8uSeFrA4uP8lP1Tl-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Plug the \(x\) and \(y\) coordinates of each rational point into each term of the equation:&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;\(axy + by - cx^2 -dx - e + fxy^2 + gx^2y = 0 \)&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-2220" y="358" width="414" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="wUOQ8uSeFrA4uP8lP1Tl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wUOQ8uSeFrA4uP8lP1Tl-12" target="qMZerMCtofsBWmIVCIiv-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-2163" y="800" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wUOQ8uSeFrA4uP8lP1Tl-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;List the terms in a \(5 \times 8\) matrix&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-2082.5" y="492" width="139" height="60" as="geometry" />
+          <mxGeometry x="-2338" y="1130" width="139" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
